@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "u7bljm7PKQAvYIfhsagKuPJaeIwYC1Ns/5GKPxOzCaiWsUsUIu7a/jugP3RkuMdBENX959UsG1tqGdxkPWybng==",
+  "success": false,
+  "projectFilePath": "/Users/user/Documents/ITIS/DotNet/dotnet-homeworks-2-hw6/dotnet-homeworks-2-hw6.fsproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Не удалось извлечь данные о \"Giraffe\" из удаленного источника \"https://dotnet.myget.org/feed/dotnet-core/package/nuget/Microsoft.NET.Sdk.IL/FindPackagesById()?id='Giraffe'&semVerLevel=2.0.0\".",
+      "libraryId": "Giraffe"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Не удалось извлечь данные о \"Ply\" из удаленного источника \"https://dotnet.myget.org/feed/dotnet-core/package/nuget/Microsoft.NET.Sdk.IL/FindPackagesById()?id='Ply'&semVerLevel=2.0.0\".",
+      "libraryId": "Ply"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Не удалось извлечь данные о \"Giraffe.ViewEngine\" из удаленного источника \"https://dotnet.myget.org/feed/dotnet-core/package/nuget/Microsoft.NET.Sdk.IL/FindPackagesById()?id='Giraffe.ViewEngine'&semVerLevel=2.0.0\".",
+      "libraryId": "Giraffe.ViewEngine"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Не удалось извлечь данные о \"Newtonsoft.Json\" из удаленного источника \"https://dotnet.myget.org/feed/dotnet-core/package/nuget/Microsoft.NET.Sdk.IL/FindPackagesById()?id='Newtonsoft.Json'&semVerLevel=2.0.0\".",
+      "libraryId": "Newtonsoft.Json"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Не удалось извлечь данные о \"System.Text.Json\" из удаленного источника \"https://dotnet.myget.org/feed/dotnet-core/package/nuget/Microsoft.NET.Sdk.IL/FindPackagesById()?id='System.Text.Json'&semVerLevel=2.0.0\".",
+      "libraryId": "System.Text.Json"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Не удалось извлечь данные о \"Microsoft.IO.RecyclableMemoryStream\" из удаленного источника \"https://dotnet.myget.org/feed/dotnet-core/package/nuget/Microsoft.NET.Sdk.IL/FindPackagesById()?id='Microsoft.IO.RecyclableMemoryStream'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.IO.RecyclableMemoryStream"
+    }
+  ]
+}
